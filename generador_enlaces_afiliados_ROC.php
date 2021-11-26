@@ -19,7 +19,7 @@ function generador_url_amazon(){
 
   <form action="<?php get_the_permalink();?>" method="post" id="form_ROC" class="generador">
       <div class="form-input">
-          <label for="titulo">Insertar URL:</label>
+          <label for="titulo">INSERTAR URL:</label>
           <input type="text" name="url" id="url" required>
       </div>
       <div class="generar-url">
