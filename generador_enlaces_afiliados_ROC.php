@@ -3,8 +3,8 @@
  * Plugin Name:  Generador URL Amazon ROC
  * Description:  Generador de URL para realizar compras con el tag de afiliados del ROC de Amazon. Hay que utilizar el shortcode [ROC_afiliados] para que el formulario aparezca en la página o el post que desees.
  * Version:      1.0.2
- * Author:       Minetas
- * Author URI:   https://www.racingonlineclub.com/
+ * Author:       Alex García
+ * Author URI:   https://alex-garcia.es/
  */
 
 
